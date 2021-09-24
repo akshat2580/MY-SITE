@@ -1,0 +1,34 @@
+.red{
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+    
+   
+}
+.blue{ width: 100px; top: 0px;
+    left: 0px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+background-color: blue; 
+}
+.yellow{ top: 0px;
+    left: 0px;
+    width: 100px;
+    height: 100px;
+    top: 200px;
+    left: 200px;
+    position: absolute;
+   
+background-color: yellow; 
+}
+.cont{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    background-color: gray;
+}
